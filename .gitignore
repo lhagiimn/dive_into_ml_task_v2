@@ -2,3 +2,4 @@ data/house_price/
 data/home_credit/
 deeplearning_task/ObjectDetection/simpsons_dataset/
 deeplearning_task/ObjectDetection/kaggle_simpson_testset/
+deeplearning_task/unet/data/
